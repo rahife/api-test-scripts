@@ -2,4 +2,5 @@
 
 
 sudo apt-get install jq
+
 ./create-env.sh
