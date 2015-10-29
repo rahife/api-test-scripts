@@ -13,7 +13,7 @@ URL="$2/api/project"
 
 JSON1='{"project": {"name": "Project'
 JSON2='","wbs": "WBS'
-JSON3='","description": "a project","responsible": "'
+JSON3='","description": "a project","owner": "'
 JSON4='",
 "startDate": "2015-03-01T17:00:00.000Z",
 "endDate": "2015-05-01T17:00:00.000Z"
