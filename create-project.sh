@@ -15,8 +15,8 @@ JSON1='{"project": {"name": "Project'
 JSON2='","wbs": "WBS'
 JSON3='","description": "a project","owner": "'
 JSON4='",
-"startDate": "2015-03-01T17:00:00.000Z",
-"endDate": "2015-05-01T17:00:00.000Z"
+"startDate": "2015-01-01T17:00:00.000Z",
+"endDate": "2015-12-01T17:00:00.000Z"
 }
 }'
 
