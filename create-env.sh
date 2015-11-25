@@ -12,8 +12,8 @@ cd $(dirname ${BASH_SOURCE[0]})
 NUM_STAFFING_GROUPS=4
 NUM_COMPETENCIES=4
 NUM_RESOURCES=4
-NUM_PROJECTS=5
-URL='http://localhost:5555'
+NUM_PROJECTS=2
+URL='http://52.17.174.169:5000'
 
 ./create-staffing-groups.sh $NUM_STAFFING_GROUPS $URL |
 xargs -I {} ./create-resources.sh $NUM_RESOURCES {} $URL |
