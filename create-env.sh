@@ -22,3 +22,5 @@ xargs -I {} ./create-project.sh {} $URL
 ./create-competencies.sh $NUM_COMPETENCIES $URL
 
 ./create-bank-holidays.sh $URL
+
+./create-desktops.sh $URL
