@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Create Staffing Groups:
+#Create Bank Holidays
 #WIP
 
 set -e
