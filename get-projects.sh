@@ -6,8 +6,8 @@ set -e
 
 cd $(dirname ${BASH_SOURCE[0]})
 
-#URL="$1/api/project/0/10?&_=1448444710415"
-URL="http://52.17.174.169:5000/api/project/0/10?&_=1448444710415"
+URL="$1/api/project/0/10?&_=1448444710415"
+#URL="http://52.17.174.169:5000/api/project/0/10?&_=1448444710415"
 
 START=1
 END=1

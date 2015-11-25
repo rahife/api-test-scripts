@@ -24,3 +24,7 @@ xargs -I {} ./create-project.sh {} $URL
 ./create-bank-holidays.sh $URL
 
 ./create-desktops.sh $URL
+
+./get-projects.sh $URL
+
+./get-resources.sh $URL
